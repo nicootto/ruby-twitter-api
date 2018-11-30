@@ -53,3 +53,10 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Gems that I decide to use
+gem 'figaro'
+gem 'twitter'
+gem 'pry-rails'
+gem 'bootstrap-sass'
+gem 'bootstrap-will_paginate'
